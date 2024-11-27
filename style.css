@@ -1,40 +1,14 @@
-body,
-html {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
+nav {
+  background-color: #5ecbfd;
+  height: 110px;
 }
 
-.header-section {
-  background-color: #82caff;
-  padding: 20px 0;
-}
-
-.nav {
-  background-color: #333;
-}
-
-.nav-link {
-  color: white;
-  padding: 25px 30px;
-  text-decoration: none;
-}
-
-.nav-link:hover {
-  background-color: #555;
-}
-
-.content-section {
-  background-color: #ffffff;
-  min-height: 500px;
-}
-
-.content-area {
-  padding: 50px;
+#nav-btn {
+  height: 60px;
+  margin-top: 40px;
 }
 hr {
-  opacity: 1;
-  height: 10px;
-  width: 80%;
+  height: 0.3px;
+  background-color: black;
+  margin-top: 0px;
 }
